@@ -10,7 +10,11 @@
     <div class="container">
         <h1>This is the game portal!</h1>
         <div class="navbar">
-
+            <div class="buttons">
+                <button id="home">Home</button>
+                <button id="games">Games</button>
+                <button id="about">About</button>
+            </div>
         </div>
         <div class="games">
 
