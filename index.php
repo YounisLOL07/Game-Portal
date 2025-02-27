@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>This is the game portal!</h1>
+
         <div class="navbar">
             <div class="buttons">
                 <button id="home">Home</button>
@@ -16,6 +16,9 @@
                 <button id="about">About</button>
             </div>
         </div>
+        <div class="home">
+            <h1>Welcome to Game Portal</h1>
+            <p>Play games online for free</p>
         <div class="games">
 
         </div>
